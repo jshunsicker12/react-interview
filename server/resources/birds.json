@@ -1,0 +1,39 @@
+[
+  {
+    "scientificName": "Dumetella carolinensis",
+    "commonName": "Gray Catbird",
+    "diet": [
+      "insects",
+      "fruit"
+    ]
+  },
+  {
+    "scientificName": "Cardinalis cardinalis",
+    "commonName": "Northern Cardinal",
+    "diet": [
+      "seeds"
+    ]
+  },
+  {
+    "scientificName": "Spinus tristis",
+    "commonName": "American Goldfinch",
+    "diet": [
+      "seeds"
+    ]
+  },
+  {
+    "scientificName": "Colaptes auratus",
+    "commonName": "Northern Flicker",
+    "diet": [
+      "insects"
+    ]
+  },
+  {
+    "scientificName": "Cyanocitta cristata",
+    "commonName": "Blue Jay",
+    "diet": [
+      "insects",
+      "nuts"
+    ]
+  }
+]

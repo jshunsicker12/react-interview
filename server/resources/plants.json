@@ -1,0 +1,103 @@
+[
+    {
+        "scientificName": "Packera aurea",
+        "commonNames": [
+            "Golden Ragwort",
+            "Golden Groundsel"
+        ],
+        "optimalLight": "partialShade",
+        "soilMoisture": [
+            "moist",
+            "wet"
+        ],
+        "soilTypes": [
+            "loam",
+            "organic",
+            "sandy",
+            "clay"
+        ]
+    },
+    {
+        "scientificName": "Monarda fistulosa",
+        "commonNames": [
+            "Wild Bergamot"
+        ],
+        "optimalLight": "fullSun",
+        "soilMoisture": [
+            "dry"
+        ],
+        "soilTypes": [
+            "loam",
+            "organic",
+            "sandy",
+            "clay"
+        ]
+    },
+    {
+        "scientificName": "Monarda didyma",
+        "commonNames": [
+            "Scarlet Beebalm"
+        ],
+        "optimalLight": "fullSun",
+        "soilMoisture": [
+            "moist"
+        ],
+        "soilTypes": [
+            "loam",
+            "organic",
+            "clay"
+        ]
+    },
+    {
+        "scientificName": "Magnolia virginiana",
+        "commonNames": [
+            "Sweetbay",
+            "Sweetbay Magnolia"
+        ],
+        "optimalLight": "partialShade",
+        "soilMoisture": [
+            "dry",
+            "moist"
+        ],
+        "soilTypes": [
+            "loam",
+            "organic",
+            "sandy",
+            "clay"
+        ]
+    },
+    {
+        "scientificName": "Hamamelis virginiana",
+        "commonNames": [
+            "American Witchhazel",
+            "Common Witchhazel"
+        ],
+        "optimalLight": "partialShade",
+        "soilMoisture": [
+            "dry",
+            "moist"
+        ],
+        "soilTypes": [
+            "loam",
+            "organic",
+            "sandy",
+            "clay"
+        ]
+    },
+    {
+        "scientificName": "Prunus americana",
+        "commonNames": [
+            "American Plum"
+        ],
+        "optimalLight": "fullSun",
+        "soilMoisture": [
+            "dry",
+            "moist"
+        ],
+        "soilTypes": [
+            "loam",
+            "organic",
+            "sandy"
+        ]
+    }
+]
