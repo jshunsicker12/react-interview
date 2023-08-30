@@ -1,24 +1,23 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from "react";
+import logo from "./logo.svg";
+import "./App.css";
+import PlantsTable from "./PlantsTable";
+import BirdsTable from "./BirdsTable";
 
 function App() {
+
+  const [showPlants, setShowPlants] = useState(true)
+  const toggleHandler = () => {
+    setShowPlants(!showPlants)
+    console.log(showPlants);
+  }
+
+
+// x = plants, y = birds, z state which holds and toggles based on the showPlants state.
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <button onClick={toggleHandler}>Toggle View</button>
+      {showPlants ? <PlantsTable/> : <BirdsTable/>}
     </div>
   );
 }
